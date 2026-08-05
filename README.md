@@ -12,13 +12,23 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0133-clone-graph](https://github.com/AimanSiddi/Leetcode/tree/master/0133-clone-graph) |
 | [0841-keys-and-rooms](https://github.com/AimanSiddi/Leetcode/tree/master/0841-keys-and-rooms) |
+| [1034-coloring-a-border](https://github.com/AimanSiddi/Leetcode/tree/master/1034-coloring-a-border) |
 ## Breadth-First Search
 |  |
 | ------- |
 | [0133-clone-graph](https://github.com/AimanSiddi/Leetcode/tree/master/0133-clone-graph) |
 | [0841-keys-and-rooms](https://github.com/AimanSiddi/Leetcode/tree/master/0841-keys-and-rooms) |
+| [1034-coloring-a-border](https://github.com/AimanSiddi/Leetcode/tree/master/1034-coloring-a-border) |
 ## Hash Table
 |  |
 | ------- |
 | [0133-clone-graph](https://github.com/AimanSiddi/Leetcode/tree/master/0133-clone-graph) |
+## Array
+|  |
+| ------- |
+| [1034-coloring-a-border](https://github.com/AimanSiddi/Leetcode/tree/master/1034-coloring-a-border) |
+## Matrix
+|  |
+| ------- |
+| [1034-coloring-a-border](https://github.com/AimanSiddi/Leetcode/tree/master/1034-coloring-a-border) |
 <!---LeetCode Topics End-->
