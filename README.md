@@ -11,12 +11,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0133-clone-graph](https://github.com/AimanSiddi/Leetcode/tree/master/0133-clone-graph) |
+| [0200-number-of-islands](https://github.com/AimanSiddi/Leetcode/tree/master/0200-number-of-islands) |
 | [0841-keys-and-rooms](https://github.com/AimanSiddi/Leetcode/tree/master/0841-keys-and-rooms) |
 | [1034-coloring-a-border](https://github.com/AimanSiddi/Leetcode/tree/master/1034-coloring-a-border) |
 ## Breadth-First Search
 |  |
 | ------- |
 | [0133-clone-graph](https://github.com/AimanSiddi/Leetcode/tree/master/0133-clone-graph) |
+| [0200-number-of-islands](https://github.com/AimanSiddi/Leetcode/tree/master/0200-number-of-islands) |
 | [0841-keys-and-rooms](https://github.com/AimanSiddi/Leetcode/tree/master/0841-keys-and-rooms) |
 | [1034-coloring-a-border](https://github.com/AimanSiddi/Leetcode/tree/master/1034-coloring-a-border) |
 ## Hash Table
@@ -26,9 +28,15 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0200-number-of-islands](https://github.com/AimanSiddi/Leetcode/tree/master/0200-number-of-islands) |
 | [1034-coloring-a-border](https://github.com/AimanSiddi/Leetcode/tree/master/1034-coloring-a-border) |
 ## Matrix
 |  |
 | ------- |
+| [0200-number-of-islands](https://github.com/AimanSiddi/Leetcode/tree/master/0200-number-of-islands) |
 | [1034-coloring-a-border](https://github.com/AimanSiddi/Leetcode/tree/master/1034-coloring-a-border) |
+## Union-Find
+|  |
+| ------- |
+| [0200-number-of-islands](https://github.com/AimanSiddi/Leetcode/tree/master/0200-number-of-islands) |
 <!---LeetCode Topics End-->
