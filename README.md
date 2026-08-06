@@ -21,6 +21,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0133-clone-graph](https://github.com/AimanSiddi/Leetcode/tree/master/0133-clone-graph) |
 | [0200-number-of-islands](https://github.com/AimanSiddi/Leetcode/tree/master/0200-number-of-islands) |
 | [0417-pacific-atlantic-water-flow](https://github.com/AimanSiddi/Leetcode/tree/master/0417-pacific-atlantic-water-flow) |
+| [0542-01-matrix](https://github.com/AimanSiddi/Leetcode/tree/master/0542-01-matrix) |
 | [0841-keys-and-rooms](https://github.com/AimanSiddi/Leetcode/tree/master/0841-keys-and-rooms) |
 | [0994-rotting-oranges](https://github.com/AimanSiddi/Leetcode/tree/master/0994-rotting-oranges) |
 | [1034-coloring-a-border](https://github.com/AimanSiddi/Leetcode/tree/master/1034-coloring-a-border) |
@@ -33,6 +34,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0200-number-of-islands](https://github.com/AimanSiddi/Leetcode/tree/master/0200-number-of-islands) |
 | [0417-pacific-atlantic-water-flow](https://github.com/AimanSiddi/Leetcode/tree/master/0417-pacific-atlantic-water-flow) |
+| [0542-01-matrix](https://github.com/AimanSiddi/Leetcode/tree/master/0542-01-matrix) |
 | [0994-rotting-oranges](https://github.com/AimanSiddi/Leetcode/tree/master/0994-rotting-oranges) |
 | [1034-coloring-a-border](https://github.com/AimanSiddi/Leetcode/tree/master/1034-coloring-a-border) |
 ## Matrix
@@ -40,10 +42,15 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0200-number-of-islands](https://github.com/AimanSiddi/Leetcode/tree/master/0200-number-of-islands) |
 | [0417-pacific-atlantic-water-flow](https://github.com/AimanSiddi/Leetcode/tree/master/0417-pacific-atlantic-water-flow) |
+| [0542-01-matrix](https://github.com/AimanSiddi/Leetcode/tree/master/0542-01-matrix) |
 | [0994-rotting-oranges](https://github.com/AimanSiddi/Leetcode/tree/master/0994-rotting-oranges) |
 | [1034-coloring-a-border](https://github.com/AimanSiddi/Leetcode/tree/master/1034-coloring-a-border) |
 ## Union-Find
 |  |
 | ------- |
 | [0200-number-of-islands](https://github.com/AimanSiddi/Leetcode/tree/master/0200-number-of-islands) |
+## Dynamic Programming
+|  |
+| ------- |
+| [0542-01-matrix](https://github.com/AimanSiddi/Leetcode/tree/master/0542-01-matrix) |
 <!---LeetCode Topics End-->
