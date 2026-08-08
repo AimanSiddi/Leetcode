@@ -34,6 +34,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0014-longest-common-prefix](https://github.com/AimanSiddi/Leetcode/tree/master/0014-longest-common-prefix) |
 | [0130-surrounded-regions](https://github.com/AimanSiddi/Leetcode/tree/master/0130-surrounded-regions) |
 | [0200-number-of-islands](https://github.com/AimanSiddi/Leetcode/tree/master/0200-number-of-islands) |
 | [0417-pacific-atlantic-water-flow](https://github.com/AimanSiddi/Leetcode/tree/master/0417-pacific-atlantic-water-flow) |
@@ -58,4 +59,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0542-01-matrix](https://github.com/AimanSiddi/Leetcode/tree/master/0542-01-matrix) |
+## String
+|  |
+| ------- |
+| [0014-longest-common-prefix](https://github.com/AimanSiddi/Leetcode/tree/master/0014-longest-common-prefix) |
+## Trie
+|  |
+| ------- |
+| [0014-longest-common-prefix](https://github.com/AimanSiddi/Leetcode/tree/master/0014-longest-common-prefix) |
 <!---LeetCode Topics End-->
