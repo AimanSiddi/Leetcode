@@ -41,6 +41,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0542-01-matrix](https://github.com/AimanSiddi/Leetcode/tree/master/0542-01-matrix) |
 | [0994-rotting-oranges](https://github.com/AimanSiddi/Leetcode/tree/master/0994-rotting-oranges) |
 | [1034-coloring-a-border](https://github.com/AimanSiddi/Leetcode/tree/master/1034-coloring-a-border) |
+| [1046-last-stone-weight](https://github.com/AimanSiddi/Leetcode/tree/master/1046-last-stone-weight) |
 ## Matrix
 |  |
 | ------- |
@@ -81,4 +82,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0067-add-binary](https://github.com/AimanSiddi/Leetcode/tree/master/0067-add-binary) |
+## Heap (Priority Queue)
+|  |
+| ------- |
+| [1046-last-stone-weight](https://github.com/AimanSiddi/Leetcode/tree/master/1046-last-stone-weight) |
 <!---LeetCode Topics End-->
