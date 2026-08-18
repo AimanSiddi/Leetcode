@@ -65,6 +65,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0014-longest-common-prefix](https://github.com/AimanSiddi/Leetcode/tree/master/0014-longest-common-prefix) |
 | [0067-add-binary](https://github.com/AimanSiddi/Leetcode/tree/master/0067-add-binary) |
+| [0125-valid-palindrome](https://github.com/AimanSiddi/Leetcode/tree/master/0125-valid-palindrome) |
 ## Trie
 |  |
 | ------- |
@@ -86,4 +87,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1046-last-stone-weight](https://github.com/AimanSiddi/Leetcode/tree/master/1046-last-stone-weight) |
+## Two Pointers
+|  |
+| ------- |
+| [0125-valid-palindrome](https://github.com/AimanSiddi/Leetcode/tree/master/0125-valid-palindrome) |
 <!---LeetCode Topics End-->
